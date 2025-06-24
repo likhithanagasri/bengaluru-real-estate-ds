@@ -1,14 +1,62 @@
-# py
-Repository to store sample Python programs.
+## 🏡 Bengaluru Real Estate Price Prediction using Data Science
 
-This repository is meant for beginners to assist them in their learning of Python. The repository covers a wide range of algorithms and other programs, and would prove immensely helpful for everybody interested in Python programming.
+This project focuses on analyzing and predicting **real estate property prices in Bengaluru** using **machine learning techniques**. It provides insights into various factors affecting housing prices, such as location, square footage, number of bedrooms, and amenities.
 
-If this is your first time coding in Python, I would love to suggest you begin from the [Basics](https://github.com/codebasics/py/tree/master/Basics). They are simple to understand and hopefully will prove fun to you.
+The aim is to help **buyers, sellers, and investors** make smarter property decisions by leveraging data-driven insights.
 
-You can also pay a visit to my very own [Youtube channel](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ).
+---
 
-Contributions to the repository are welcome.
+### 🚀 Features
 
-[![CodeBasics](https://yt3.ggpht.com/ytc/AAUvwnihwx4a5idwBTE5JFpXHb-ykyh-i1gXtFiGJYV1=s176-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ).
+* 📊 **Exploratory Data Analysis (EDA)** of Bengaluru housing data
+* 🧠 **Machine Learning model** to predict house prices
+* 🌐 **Interactive web interface** using Flask (optional)
+* 📍 **Location-based filtering** and visualizations
+* 📈 Trained and evaluated using metrics like R² and RMSE
 
-#### Happy coding!
+---
+
+### 🛠️ Tools & Technologies
+
+* Python 🐍
+* Pandas, NumPy, Matplotlib, Seaborn
+* Scikit-learn (Linear Regression, Decision Tree, etc.)
+* Flask (for model deployment)
+* Jupyter Notebook
+* Git & GitHub for version control
+
+---
+
+### 📁 Dataset
+
+The dataset is based on real housing data for Bengaluru and contains features like:
+
+* Location
+* Size (BHK, square footage)
+* Number of bathrooms
+* Price
+
+*dataset---->https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data
+
+---
+
+### 📊 Output
+
+* Predicted house price for given features
+* Cleaned dataset and correlation heatmaps
+* Interactive user interface (if Flask used)
+
+---
+
+### 📌 Future Work
+
+* Add advanced models (Random Forest, XGBoost)
+* Deploy via AWS / Streamlit / Docker
+* Improve location intelligence using geospatial data
+
+---
+
+### 🙌 Contributions
+
+Feel free to fork, contribute, and submit pull requests. Suggestions are always welcome!
+
